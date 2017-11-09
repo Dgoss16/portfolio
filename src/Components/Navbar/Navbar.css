@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.466);
+    height: 40px;
+    text-shadow: 3px 3px #838383;
+}
+
+a {
+    color: rgb(240, 239, 239);
+    margin-right: 25px;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: 'Cabin';
+}

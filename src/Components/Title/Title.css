@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+.title {
+    font-family: 'Lobster';
+    color: white;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.titleContainer {
+    width: 50%;
+}
+
+h1 {
+    text-shadow: 4px 4px #838383;
+}
+
+h2 {
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-end;
+	align-items: flex-end;
+    align-content: stretch;
+    text-shadow: 4px 4px #838383;
+}

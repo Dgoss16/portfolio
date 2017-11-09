@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+.portfolioContainer {
+    background-color: rgba(255, 255, 255, 0.849);
+    width: 100%;
+    margin-top: 500px; 
+    padding: 20px;
+}
+
+.portfolioTitleContainer {
+    display: flex;
+    justify-content: center;
+    font-family: 'Lobster';
+    font-size: 40px;
+    margin-top: -50px;
+}
+
+.projectsContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.project1 {
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.project2 {
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

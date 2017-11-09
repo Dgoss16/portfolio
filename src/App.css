@@ -1,8 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
 body {
-	background-image: url('./images/nature.png');
+	background-image: url('./Images/nature.png');
 	min-height: 1000px;
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+    -webkit-backgound-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
