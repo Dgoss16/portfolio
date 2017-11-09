@@ -5,6 +5,7 @@ import Title from './Components/Title/Title';
 import About from './Components/About/About';
 import Footer from './Components/Footer/Footer';
 import Portfolio from './Components/Portfolio/Portfolio';
+import Contact from './Components/Contact/Contact';
 
 class App extends Component {
   render() {
@@ -14,6 +15,7 @@ class App extends Component {
         <Title></Title>
         <About></About>
         <Portfolio></Portfolio>
+        <Contact></Contact>
         <Footer></Footer>
       </div>
     );

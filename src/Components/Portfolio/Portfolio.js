@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './Portfolio.css';
+import GithubLogoBlack from '../../Images/githubLogoBlack.png';
 
 
 class Portfolio extends Component {
@@ -12,12 +13,13 @@ class Portfolio extends Component {
                     </div>
 
                     <div className='projectsContainer'>
-                        <div className='project1'>
-                            
+                        <div className='project'>
+                            <div><p className='tempText'>Coming Soon!</p></div>
+                            <img className='repoLogo' src={GithubLogoBlack} />
                         </div>
-
-                        <div className='project2'>
-                        
+                        <div className='project'>
+                            <div><p className='tempText'>Coming Soon!</p></div>
+                            <img className='repoLogo' src={GithubLogoBlack} />
                         </div>
                     </div>
                 </div>

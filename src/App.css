@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster');
 @import url('https://fonts.googleapis.com/css?family=Cabin');
 
+.App {
+	width: 100%;
+}
+
 body {
 	background-image: url('./Images/nature.png');
 	min-height: 1000px;
@@ -11,5 +15,6 @@ body {
     -webkit-backgound-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
+	background-size: cover;
+	width: 100%;
 }
