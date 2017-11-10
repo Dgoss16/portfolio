@@ -9,7 +9,7 @@ class About extends Component {
                     <div className='aboutMeText'>
                         <div className='aboutMeTitleContainer'>
                         <p  id='About' className='aboutMeTitle'>About Me</p></div>
-                        <p>Through out High School I was always a tech save kind of person and enjoyed working 
+                        <p>Through out High School I was always a tech savvy kind of person and enjoyed working 
                         with computers. Originally, I was going to Chippewa Valley Technical College for their
                         IT Networking Specialist program, but, ended up wanting to change my major over to Web 
                         Development. That is then when I discovered about Coding Boot camps and came across 
