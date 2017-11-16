@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+.Skills {
+    background-color: rgba(255, 255, 255, 0.849);
+    color: #000000;
+    font-size: 21px;
+    width: 100%;
+    margin-top: 50vh;
+    font-family: 'Cabin';
+    padding: 40px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; 
+    display: flex;
+    justify-content: center;
+}
+
+.skillsTitleContainer {
+    display: flex;
+    justify-content: center;
+    font-family: 'Lobster';
+    font-size: 40px;
+}

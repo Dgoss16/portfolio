@@ -20,7 +20,7 @@ class Contact extends Component {
 	                        E-mail:<br/>
 	                        <input type="text" name="mail" required/><br/><br/>
 	                        Comment:<br/>
-                            <textarea className='comment'/><br/>
+                            <textarea className='comment' required/><br/>
 	                        <input className='button' type="submit" value="Send"/>
 	                        <input className='button'type="reset" value="Reset"/>
                         </form>

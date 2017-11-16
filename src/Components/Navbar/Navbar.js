@@ -10,6 +10,8 @@ class Navbar extends Component {
                     <a href=''>|</a>
                     <a href='#About'>ABOUT</a>
                     <a href=''>|</a>
+                    <a href='#Skills'>SKILLS</a>
+                    <a href=''>|</a>
                     <a href='#Portfolio'>PORTFOLIO</a>
                     <a href=''>|</a>
                     <a href='#Contact'>CONTACT</a>                    

@@ -31,8 +31,22 @@
     /* position: absolute; */
     background-image: url('../../Images/WayPointHomesHome.png');
     background-size: 650px 400px;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; 
     margin-left: 25px;
+}
+
+.project2Image {
+    border: 2px solid black;
+    width: 650px;
+    height: 400px;
+    background-image: url('../../Images/DiscoverwiHome.png');
+    background-size: 650px 400px;
+    background-repeat: no-repeat; 
+    margin-left: 25px;
+}
+
+.project1Image:hover {
+    color: yellow;
 }
 
 .pictureOfMe {

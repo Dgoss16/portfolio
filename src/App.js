@@ -6,6 +6,7 @@ import About from './Components/About/About';
 import Footer from './Components/Footer/Footer';
 import Portfolio from './Components/Portfolio/Portfolio';
 import Contact from './Components/Contact/Contact';
+import Skills from './Components/Skills/Skills';
 
 class App extends Component {
   render() {
@@ -14,6 +15,7 @@ class App extends Component {
         <Navbar></Navbar>
         <Title></Title>
         <About></About>
+        <Skills></Skills>
         <Portfolio></Portfolio>
         <Contact></Contact>
         <Footer></Footer>
