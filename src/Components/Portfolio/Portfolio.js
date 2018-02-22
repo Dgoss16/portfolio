@@ -14,7 +14,7 @@ class Portfolio extends Component {
 
                     <div className='projectsContainer'>
                         <div className='project'>
-                            <a href='http://waypointhomes.surge.sh/#/'><div className='project1Image'><img src='../../Images/WayPointHomesHome.png'/></div></a>
+                            <a href='http://waypointhomes.surge.sh/#/'><div className='project1Image'></div></a>
                             <div className='repoLogoContainer'>
                                 <a href='https://github.com/simoneholder1/WaypointHomes/tree/master/waypoint/Waypoint-Homes'>
                                     <img className='repoLogo' src={GithubLogoBlack} />
@@ -22,7 +22,7 @@ class Portfolio extends Component {
                             </div>
                         </div>
                         <div className='project'>
-                            <a href='http://discoverwi.com'><div className='project2Image'><img src='http://prntscr.com/hb2hyl'/></div></a>
+                            <a href='http://discoverwi.com'><div className='project2Image'></div></a>
                             <div className='repoLogoContainer'>
                                 <a href='https://github.com/Dgoss16/VisitWisconsin'>
                                     <img className='repoLogo' src={GithubLogoBlack} />
