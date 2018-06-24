@@ -14,7 +14,6 @@
     background-color: rgba(255, 255, 255, 0.849);
     color: #000000;
     width: 100%;
-    font-size: 20px;
     margin-top: 50vh;
     font-family: 'Cabin';
     padding: 40px;
@@ -29,14 +28,25 @@
     display: flex;
     justify-content: center;
     font-family: 'Lobster';
-    font-size: 40px;
+    font-size: 45px;
 }
 
 .aboutMeText {
-    width: 70%;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 2em;
+}
+
+p {
+    font-size: 80%;
 }
 
 .pictureOfMe {
-    margin-right: 15px;
+    margin-right: 120px;
     margin-left: 13%;
+    border-radius: 50em;
+}
+
+.aboutMeTextContainer {
+    width: 70%;
 }
