@@ -7,12 +7,12 @@ class About extends Component {
         return (
             <div className='about'>
                 <div className='aboutContainer'>
-                    <div className='aboutMeText'>
+                    <div className='aboutMeTextContainer'>
                         <div className='aboutMeTitleContainer'>
                         <p  id='About' className='aboutMeTitle'>About Me</p></div>
                         <div className='aboutMeContainer'>
                         <img className='pictureOfMe' src={Dylan}/>
-                        <p className='aboutMeText'>Throughout High School I was always a tech savvy kind of person and enjoyed working 
+                        <p>Throughout High School I was always a tech savvy kind of person and enjoyed working 
                         with computers. Originally, I was going to Chippewa Valley Technical College for their
                         IT Networking Specialist program, but, ended up wanting to change my major over to Web 
                         Development. That is when I discovered Coding Boot camps and came across 

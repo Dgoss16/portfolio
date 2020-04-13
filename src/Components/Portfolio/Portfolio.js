@@ -22,7 +22,7 @@ class Portfolio extends Component {
                             </div>
                         </div>
                         <div className='project'>
-                            <a href='http://discoverwi.com'><div className='project2Image'><img src='http://prntscr.com/hb2hyl'/></div></a>
+                            <a href='http://discoverwi.us'><div className='project2Image'><img src='http://prntscr.com/hb2hyl'/></div></a>
                             <div className='repoLogoContainer'>
                                 <a href='https://github.com/Dgoss16/VisitWisconsin'>
                                     <img className='repoLogo' src={GithubLogoBlack} />
