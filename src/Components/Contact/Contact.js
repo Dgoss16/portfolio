@@ -10,7 +10,7 @@ class Contact extends Component {
                         <div className='contactTitle'>
                             <p id='Contact'>Contact Me</p>
                         </div>
-                        <p className='contactText'>Like what you see? Have any questions? Send me and email!</p>
+                        <p className='contactText'>Like what you see? Have any questions? Send me an email!</p>
                     </div>
 
                     <div className='emailForm'>

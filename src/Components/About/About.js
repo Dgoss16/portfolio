@@ -12,6 +12,7 @@ class About extends Component {
                         <p  id='About' className='aboutMeTitle'>About Me</p></div>
                         <div className='aboutMeContainer'>
                         <img className='pictureOfMe' src={Dylan}/>
+<<<<<<< HEAD
                         <p>Throughout High School I was always a tech savvy kind of person and enjoyed working 
                         with computers. Originally, I was going to Chippewa Valley Technical College for their
                         IT Networking Specialist program, but, ended up wanting to change my major over to Web 
@@ -20,6 +21,15 @@ class About extends Component {
                         to quickly learn HTML, CSS, React, JavaScript, SASS, NodeJS, and AngularJS. I will be graduating 
                         on November 17th and then going back to Chippewa Falls to hopefully find a job in either
                         Front-End, Back-End or Full Stack Development.</p>
+=======
+                        <div className='aboutMeText'>
+                            <p>Throughout High School, I grew very fond of technology and enjoyed working 
+                            with computers. That eventually developed into the love and passion that I now have for
+                            coding. Currently, I have two projects built using ReactJs, JavaScript, NodeJs and PostgresSql.
+                            Now I am focusing on developing my skills with jQuery and on the side am developing a web
+                            application using React.</p>
+                        </div>
+>>>>>>> 584f59cf198460dbf5c5a4aae6bd6f9ad59f490e
                         </div>
                 </div>
                 </div>
