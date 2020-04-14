@@ -32,26 +32,9 @@
     font-size: 45px;
 }
 
-<<<<<<< HEAD
 .pictureOfMe {
     margin-right: 1em;
     border-radius: 10em;
-=======
-.aboutMeText {
-    text-align: center;
-    background-color: aliceblue;
-    border-radius: 2em;
-}
-
-p {
-    font-size: 80%;
-}
-
-.pictureOfMe {
-    margin-right: 120px;
-    margin-left: 13%;
-    border-radius: 50em;
->>>>>>> 584f59cf198460dbf5c5a4aae6bd6f9ad59f490e
 }
 
 .aboutMeTextContainer {
