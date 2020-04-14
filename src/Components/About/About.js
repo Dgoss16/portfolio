@@ -16,7 +16,7 @@ class About extends Component {
                             <p>Throughout High School, I grew very fond of technology and enjoyed working 
                             with computers. That eventually developed into the love and passion that I now have for
                             coding. Currently, I have two projects built using ReactJs, JavaScript, NodeJs and PostgresSql.
-                            Now I am focusing on developing my skills with jQuery and on the side am developing a web
+                            Now I am focusing on developing my skills with Java and on the side am developing a web
                             application using React.</p>
                         </div>
                         </div>
