@@ -13,20 +13,30 @@ class Portfolio extends Component {
                     </div>
 
                     <div className='projectsContainer'>
-                        <div className='project'>
-                            <a href='http://waypointhomes.surge.sh/#/'><div className='project1Image'></div></a>
-                            <div className='repoLogoContainer'>
-                                <a href='https://github.com/simoneholder1/WaypointHomes/tree/master/waypoint/Waypoint-Homes'>
-                                    <img className='repoLogo' src={GithubLogoBlack} />
-                                </a>
+                        <div className='twoProjectsContainer'>
+                            <div className='project'>
+                                <a href='http://waypointhomes.surge.sh/#/' target='_blank rel=noopener'><div className='project1Image'></div></a>
+                                <div className='repoLogoContainer'>
+                                    <a href='https://github.com/Dgoss16/WaypointHomes' target='_blank rel=noopener'>
+                                        <img className='repoLogo' src={GithubLogoBlack} />
+                                    </a>
+                                </div>
+                            </div>
+                            <div className='project'>
+                                <a href='http://discoverwi.us' target='_blank rel=noopener'><div className='project2Image'><img src='project2Image'/></div></a>
+                                <div className='repoLogoContainer'>
+                                    <a href='https://github.com/Dgoss16/VisitWisconsin' target='_blank rel=noopener'>
+                                        <img className='repoLogo' src={GithubLogoBlack} />
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         <div className='project'>
-                            <a href='http://discoverwi.us'><div className='project2Image'><img src='http://prntscr.com/hb2hyl'/></div></a>
-                            <div className='repoLogoContainer'>
-                                <a href='https://github.com/Dgoss16/VisitWisconsin'>
-                                    <img className='repoLogo' src={GithubLogoBlack} />
-                                </a>
+                            <a href='http://hideoutdayz.com' target='_blank rel=noopener'><div className='project3Image'></div></a>
+                                <div className='repoLogoContainer'>
+                                    <a href='https://github.com/The-Hideout/Website/tree/hideoutRework' target='_blank rel=noopener'>
+                                        <img className='repoLogo' src={GithubLogoBlack} />
+                                    </a>
                             </div>
                         </div>
                     </div>

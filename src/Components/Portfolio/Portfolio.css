@@ -19,16 +19,28 @@
     margin-top: -50px;
 }
 
+.twoProjectsContainer {
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+
 .projectsContainer {
     display: flex;
-    justify-content: center;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
 }
 
 .project1Image {
     border: 2px solid black;
     width: 650px;
     height: 400px;
-    /* position: absolute; */
     background-image: url('../../Images/WayPointHomesHome.png');
     background-size: 650px 400px;
     background-repeat: no-repeat; 
@@ -39,7 +51,17 @@
     border: 2px solid black;
     width: 650px;
     height: 400px;
-    background-image: url('../../Images/DiscoverwiHome.png');
+    background-image: url('../../Images/discoverWI.png');
+    background-size: 650px 400px;
+    background-repeat: no-repeat; 
+    margin-left: 25px;
+}
+
+.project3Image {
+    border: 2px solid black;
+    width: 650px;
+    height: 400px;
+    background-image: url('../../Images/hideoutPic.png');
     background-size: 650px 400px;
     background-repeat: no-repeat; 
     margin-left: 25px;
@@ -60,6 +82,7 @@
 	align-items: center;
 	align-content: stretch;
     margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 .tempText {
