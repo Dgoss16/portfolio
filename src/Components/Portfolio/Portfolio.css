@@ -25,7 +25,7 @@
 	flex-wrap: nowrap;
 	justify-content: center;
 	align-items: center;
-	align-content: center;
+    align-content: center;
 }
 
 .projectsContainer {
@@ -41,7 +41,7 @@
     border: 2px solid black;
     width: 650px;
     height: 400px;
-    background-image: url('../../Images/WayPointHomesHome.png');
+    background-image: url('../../Images/WayPointHomesHome-min.png');
     background-size: 650px 400px;
     background-repeat: no-repeat; 
     margin-left: 25px;
@@ -51,7 +51,7 @@
     border: 2px solid black;
     width: 650px;
     height: 400px;
-    background-image: url('../../Images/discoverWI.png');
+    background-image: url('../../Images/discoverWI-min.png');
     background-size: 650px 400px;
     background-repeat: no-repeat; 
     margin-left: 25px;
@@ -61,7 +61,7 @@
     border: 2px solid black;
     width: 650px;
     height: 400px;
-    background-image: url('../../Images/hideoutPic.png');
+    background-image: url('../../Images/hideoutPic-min.png');
     background-size: 650px 400px;
     background-repeat: no-repeat; 
     margin-left: 25px;
