@@ -15,11 +15,11 @@ class Portfolio extends Component {
                     <div className='projectsContainer'>
                         <div className='twoProjectsContainer'>
                             <div className='project'>
-                                <a href='http://waypointhomes.surge.sh/#/' target='_blank rel=noopener'><div className='project1Image'></div></a>
-                                <div className='repoLogoContainer'>
-                                    <a href='https://github.com/Dgoss16/WaypointHomes' target='_blank rel=noopener'>
-                                        <img className='repoLogo' src={GithubLogoBlack} />
-                                    </a>
+                                <a href='http://hideoutdayz.byethost31.com/#/' target='_blank rel=noopener'><div className='project3Image'></div></a>
+                                    <div className='repoLogoContainer'>
+                                        <a href='https://github.com/The-Hideout/Website/tree/hideoutRework' target='_blank rel=noopener'>
+                                            <img className='repoLogo' src={GithubLogoBlack} />
+                                        </a>
                                 </div>
                             </div>
                             <div className='project'>
@@ -29,14 +29,6 @@ class Portfolio extends Component {
                                         <img className='repoLogo' src={GithubLogoBlack} />
                                     </a>
                                 </div>
-                            </div>
-                        </div>
-                        <div className='project'>
-                            <a href='http://hideoutdayz.byethost31.com/#/' target='_blank rel=noopener'><div className='project3Image'></div></a>
-                                <div className='repoLogoContainer'>
-                                    <a href='https://github.com/The-Hideout/Website/tree/hideoutRework' target='_blank rel=noopener'>
-                                        <img className='repoLogo' src={GithubLogoBlack} />
-                                    </a>
                             </div>
                         </div>
                     </div>
