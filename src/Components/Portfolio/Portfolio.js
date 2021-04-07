@@ -32,7 +32,7 @@ class Portfolio extends Component {
                             </div>
                         </div>
                         <div className='project'>
-                            <a href='http://visitwisconsin.byethost9.com/#/' target='_blank rel=noopener'><div className='project3Image'></div></a>
+                            <a href='http://hideoutdayz.byethost31.com/#/' target='_blank rel=noopener'><div className='project3Image'></div></a>
                                 <div className='repoLogoContainer'>
                                     <a href='https://github.com/The-Hideout/Website/tree/hideoutRework' target='_blank rel=noopener'>
                                         <img className='repoLogo' src={GithubLogoBlack} />
