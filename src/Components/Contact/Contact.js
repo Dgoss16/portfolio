@@ -14,7 +14,7 @@ class Contact extends Component {
                     </div>
 
                     <div className='emailForm'>
-                        <form action="mailto:Dylangoss21@yahoo.com" method="post" enctype="text/plain">
+                        <form action="mailto:Dylangoss21@gmail.com" method="post" enctype="text/plain">
 	                        Name:<br/>
 	                        <input type="text" name="name" required/><br/><br/>
 	                        E-mail:<br/>
