@@ -11,10 +11,10 @@ class About extends Component {
                 </div>
                 <div className='aboutMeTextPicContainer'>
                 <div className='aboutMePicContainer'>
-                    <img className='aboutMePic' src={Dylan}/>
+                    <img className='aboutMePic' src={Dylan} alt='Bio pic of Dylan'/>
                 </div>
                 <div className='aboutMeTextContainer'>
-                    <p className='aboutMeText'>Throughout High School, I grew very fond of technology and enjoyed working with 
+                    <p className='aboutMeText'>Through out High School, I grew very fond of technology and enjoyed working with 
                     computers. That eventually developed into the love and passion that I now have for coding. Currently, I have 
                     two projects built using ReactJs, JavaScript, NodeJs and PostgresSql. Now I am focusing on developing my skills 
                     with Java and on the side am developing a web application using React.</p>

@@ -11,7 +11,7 @@ class Skills extends Component {
                     <div className='skillsTitleContainer'>
                         <p id='Skills'>Skills</p>
                     </div>
-                    <img src={SkillsPic}/>
+                    <img src={SkillsPic} alt='Skills'/>
                 </div>
             </div>
         )

@@ -7,13 +7,13 @@ class Navbar extends Component {
             <div className='navbar'>
                 <nav>
                     <a href='#Home'>HOME</a>
-                    <a href=''>|</a>
+                    <a href='#Home'>|</a>
                     <a href='#About'>ABOUT</a>
-                    <a href=''>|</a>
+                    <a href='#About'>|</a>
                     <a href='#Skills'>SKILLS</a>
-                    <a href=''>|</a>
+                    <a href='#Skills'>|</a>
                     <a href='#Portfolio'>PORTFOLIO</a>
-                    <a href=''>|</a>
+                    <a href='#Portfolio'>|</a>
                     <a href='#Contact'>CONTACT</a>                    
                 </nav>
             </div>

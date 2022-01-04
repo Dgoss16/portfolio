@@ -10,8 +10,8 @@ class Footer extends Component {
                 <div className='footer'>
                     <div className='socialMediaContainer'>
                         <div>
-                        <a href='https://github.com/Dgoss16'><img className='githubLogo' src={Github}/></a>
-                        <a href='https://www.linkedin.com/in/dylan-goss-7b2753146'><img className='linkedinLogo' src={Linkedin}/></a>
+                        <a href='https://github.com/Dgoss16'><img className='githubLogo' src={Github} alt='github logo'/></a>
+                        <a href='https://www.linkedin.com/in/dylan-goss-7b2753146'><img className='linkedinLogo' src={Linkedin} alt='linkedin logo'/></a>
                         </div>
                     </div>
 
