@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './Skills.css';
-import SkillsPic from '../../Images/skills-min.png';
+import SkillsPic from '../../Images/skills.png';
 
 
 class Skills extends Component {
