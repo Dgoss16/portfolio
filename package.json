@@ -10,7 +10,7 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-router-hash-link": "^1.1.1",
-    "react-scripts": "^3.4.1",
+    "react-scripts": "^5.0.1",
     "browserslist": "^4.17.5"
   },
   "scripts": {
